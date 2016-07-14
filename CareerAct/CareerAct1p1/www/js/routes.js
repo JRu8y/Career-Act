@@ -105,7 +105,7 @@ angular.module('app.routes', ['ionicUIRouter'])
     }
   })
 
-$urlRouterProvider.otherwise('/page1/tab1/page2')
+$urlRouterProvider.otherwise('/page8')
 
   
 
